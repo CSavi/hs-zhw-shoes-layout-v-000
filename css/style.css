@@ -285,6 +285,10 @@ section a {
   margin-left: 0%;
 }
 
+.clearfix:after {
+  
+}
+
 /********** Details **********/
 
 #details {
