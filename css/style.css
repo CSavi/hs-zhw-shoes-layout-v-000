@@ -266,6 +266,10 @@ section a {
 
 
 /********** COLUMNS LAYOUT **********/
+* {
+  
+}
+
 .col-1 {
   float: left;
   width: 32%;
