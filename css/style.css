@@ -284,6 +284,10 @@ section a {
   margin-left: 2%;
 }
 
+.first {
+  margin-left: 0%;
+}
+
 /********** Details **********/
 
 #details {
